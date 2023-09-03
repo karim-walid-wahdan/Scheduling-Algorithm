@@ -1,6 +1,6 @@
 # Scheduling Algorithm
 
-This repository contains the source code for a scheduling algorithm. A scheduling algorithm is used to manage the execution of multiple processes in a system, ensuring that each process gets a chance to execute. This algorithm is particularly useful in systems with multiple processes competing for limited system resources.
+This repository contains the source code for a scheduling algorithm. A scheduling algorithm is used to manage the execution of multiple processes in a system, ensuring that each process gets a chance to execute. This algorithm is particularly useful in systems with multiple processes competing for limited system resources. This project is a  part of the Operating Systems course at the German International University in Berlin under the supervision of Dr. Hassan Soubra.
 
 ## Contents
 
